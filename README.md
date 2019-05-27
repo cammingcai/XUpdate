@@ -1,11 +1,8 @@
 # XUpdate
 [![xu][xusvg]][xu]  [![api][apisvg]][api]
 
-一个轻量级、高可用性的Android版本更新框架。赶紧点击[使用说明文档](https://github.com/xuexiangjys/XUpdate/wiki)，体验一下吧！
+一个轻量级、高可用性的Android版本更新框架。赶紧点击[使用说明文档](https://github.com/cammingcai/XUpdate.git)，体验一下吧！
 
-## 关于我
-
-[![github](https://img.shields.io/badge/GitHub-xuexiangjys-blue.svg)](https://github.com/xuexiangjys)   [![csdn](https://img.shields.io/badge/CSDN-xuexiangjys-green.svg)](http://blog.csdn.net/xuexiangjys)
 
 ## 特征
 
